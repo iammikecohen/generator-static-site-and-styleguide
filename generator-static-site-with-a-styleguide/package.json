@@ -22,7 +22,10 @@
   "dependencies": {
     "yeoman-generator": "^0.19.0",
     "chalk": "^1.0.0",
-    "yosay": "^1.0.2"
+    "yosay": "^1.0.2",
+    "generator-webapp": ">=1.1.0",
+    "generator-assemble-swig": "*",
+    "generator-styleguide": "*"
   },
   "devDependencies": {
     "mocha": "*"
